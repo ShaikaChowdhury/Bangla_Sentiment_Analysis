@@ -4,5 +4,5 @@ This repository contains the training/test sets as well as the manually created 
 
 Shaika Chowdhury and Wasifa Chowdhury. Performing sentiment analysis in Bangla microblog posts. Informatics, Electronics & Vision (ICIEV), 2014 International Conference on. IEEE, 2014.
 
-Please cite this paper if you use the data.
+Please cite this paper if you use the dataset/lexicon.
 
